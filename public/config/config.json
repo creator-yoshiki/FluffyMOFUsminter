@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x909798D35F9d02E16CbF75C9F781Fb480F769935",
-  "SCAN_LINK": "https://polygonscan.com/token/0x909798D35F9d02E16CbF75C9F781Fb480F769935",
+  "CONTRACT_ADDRESS": "0x039e78F4084CC58C719e1b84323AcE942EFDedd3",
+  "SCAN_LINK": "https://polygonscan.com/address/0x039e78F4084CC58C719e1b84323AcE942EFDedd3",
   "NETWORK": {
     "NAME": "Polygon",
     "SYMBOL": "Matic",
     "ID": 137
   },
   "NFT_NAME": "FluffyMOFUs",
-  "SYMBOL": "FMT",
+  "SYMBOL": "FLMT",
   "MAX_SUPPLY": 10000,
   "WEI_COST": 3000000000000000000,
   "DISPLAY_COST": 3,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/fluffymofus",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/fluffy-mofus",
   "SHOW_BACKGROUND": true
 }
